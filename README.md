@@ -1,5 +1,3 @@
-# js-cheatsheet
-
 # New ES6 JS features
 ### Variable declaration with let and const
 ##### Var
